@@ -1,4 +1,4 @@
-# {saffermap} — South Africa Map Data
+# {saffer-data-map} — South Africa Map Data
 
 ## Useful Resources
 
